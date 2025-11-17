@@ -9,7 +9,7 @@ import html5 from "/public/svg/skills/html.svg";
 import css3 from "/public/svg/skills/css.svg";
 import nodejs from "/public/svg/skills/nodejs.svg";
 import expressjs from "/public/svg/skills/expressjs.svg";
-import mongodb from "/public/svg/skills/mongodb.svg";
+import mongodb from "/public/svg/skills/mongoDB.svg";
 import git from "/public/svg/skills/git.svg";
 import docker from "/public/svg/skills/docker.svg";
 import cicd from "/public/svg/skills/cicd.svg";
