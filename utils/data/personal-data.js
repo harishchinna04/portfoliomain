@@ -12,5 +12,5 @@ export const personalData = {
   github: "https://github.com/harishchinna04",
   linkedIn: "https://www.linkedin.com/in/vatte-hari-737063240/", // change if needed
   devUsername: "harishchinna04",
-  resume: "https://drive.google.com/file/d/1Vmb5GpMJjIG5hYz-mVwQtbw-QytvWR2x/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1LBLnB_H6wQ1-CfHdBNB2WuvzlvOYGaKc/view?usp=sharing"
 };

@@ -103,17 +103,18 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "Vijeth Venkatesha",
+  name: "Hari Vatte",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is Vijeth Venkatesha....",
-  email: "vijeth1410@gmail.com",
-  phone: "+1 6592539525",
-  address: "2951 S King Dr, Chicago, Illinois, USA - 60616",
-  github: "https://github.com/Vijeth-V",
-  linkedIn: "https://www.linkedin.com/in/vijeth-v/",
-  devUsername: "Vijeth1410",
-  resume: "...",
+  description:
+    "Full-stack developer with 3+ years of experience building scalable applications using C#, .NET Core, React.js, Node.js, SQL Server, MongoDB, and Azure. Passionate about designing clean UI, creating efficient APIs, and deploying cloud-ready solutions.",
+  email: "harishchinna04@gmail.com",
+  phone: "574-217-6093",
+  address: "Mishawaka, Indiana, USA",
+  github: "https://github.com/harishchinna04",
+  linkedIn: "https://www.linkedin.com/in/vatte-hari-737063240/",
+  devUsername: "",
+  resume: "/Hari_Vatte_Resume.pdf",
 };
 ```
 
