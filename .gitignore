@@ -34,3 +34,7 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+# Large/binary files
+*.exe
+public/svg/skills/*.pptx
+
